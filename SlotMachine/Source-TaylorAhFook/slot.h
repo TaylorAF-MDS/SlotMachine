@@ -1,6 +1,4 @@
 #pragma once
-#ifndef _slot
-#define _slot
 
-
-#endif
+void spinSlots(int& _a, int& _b, int& _c);
+int calculateWinnings(int _a, int _b, int _c, int _bet);
