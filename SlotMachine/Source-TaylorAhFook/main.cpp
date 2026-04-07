@@ -8,9 +8,9 @@ int main() {
 
 	do {
 		cout << "Player's chips: $" << _playerChips << endl << endl;
-		cout << "1)	Play Slots" << endl;
-		cout << "2)	Credits" << endl;
-		cout << "3)	Quit Game" << endl;
+		cout << "1)	Play Slots\n";
+		cout << "2)	Credits\n";
+		cout << "3)	Quit Game\n";
 		cin >> _menu;
 
 		switch (_menu) {
