@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Source-TaylorAhFook/Source-TaylorAhFook.vcxproj" Id="91739cf1-f3da-4861-9b48-7ffb013dcf05" />
+</Solution>
