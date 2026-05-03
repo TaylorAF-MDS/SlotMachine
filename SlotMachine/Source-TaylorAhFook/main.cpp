@@ -24,7 +24,7 @@ int main() {
 		case 1:
 			if (_playerChips <= 0)
 			{
-				cout << "You have no chips left! Please call 0800 654 655\n\n";
+				cout << "You have no chips left! Please call the gambling hotline on 0800 654 655\n\n";
 				break;
 			}
 				cout << "You have selected slots! Make a bet: ";
